@@ -1,0 +1,63 @@
+FORMATO POSTMAN
+{
+   "text": "el alma no vibra con cualquiera.",
+   "gender": "male and female",
+   "ages": "25-35",
+   "music": "Reggae",
+   "hobbie": "Music and dancing",
+   "language": "Spanish"
+   
+}
+
+---------------------------------------------------
+text = " "
+gender = "Male | Female | Male and Female"
+ages = "(12 - 16,16 - 25,25 - 35,35 - 45,> 45) "
+music = " "
+hobbie = " "
+language = "English | Spanish | French | Italian | Portuguese | Chinese | German | Russian | Japanese | Arab | Any Language"
+----------------------------------
+1. Text
+2. Publico.
+	2.1 -- gender 
+	2.2 -- ages 
+	2.3 -- music 
+	2.4 -- hobbies 
+	2.5 -- language
+------------------------------------
+2.3 MUSIC
+Pop
+Rock or Punk
+Hip-hop/Rap/Trap
+Electronic/House/Techno
+R&B
+Reggae
+Soul or Blues or Jazz
+Classical
+Flamenco
+Heavy Metal
+Reggaeton
+Salsa or Bachata
+Indie/Alternative
+------------------------------------
+2.4 hobbie
+	Taking photos and editing them
+	Traveling
+	Exercise and body care
+	Food and cooking
+	Fashion and beauty
+	Animals and pets
+	Music and dancing
+	Sports and outdoor activities
+	Art and design
+	Technology and computer science
+	Movies and TV shows
+	Video games
+	Reading and writing
+	Psychology and self-help
+	Science and nature
+	Photography and cinema
+	Business and finance
+	Culture and history
+	Social sciences and politics
+	Education and learning
